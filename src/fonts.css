@@ -1,0 +1,70 @@
+/* ExtraLight */
+@font-face {
+    font-family: 'Mori';
+    src: url('../public/fonts/PPMori-Extralight.otf') format('opentype');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Mori';
+    src: url('../public/fonts/PPMori-ExtralightItalic.otf') format('opentype');
+    font-weight: 200;
+    font-style: italic;
+}
+
+/* Regular */
+@font-face {
+    font-family: 'Mori';
+    src: url('../public/fonts/PPMori-Regular.otf') format('opentype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Mori';
+    src: url('../public/fonts/PPMori-RegularItalic.otf') format('opentype');
+    font-weight: 400;
+    font-style: italic;
+}
+
+/* SemiBold */
+@font-face {
+    font-family: 'Mori';
+    src: url('../public/fonts/PPMori-SemiBold.otf') format('opentype');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Mori';
+    src: url('../public/fonts/PPMori-SemiBoldItalic.otf') format('opentype');
+    font-weight: 600;
+    font-style: italic;
+}
+
+/* Editorial old */
+@font-face {
+    font-family: 'EditorialOld';
+    src: url('../public/fonts/ppeditorialold-ultralightitalic.otf') format('opentype');
+    font-weight: 200;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'EditorialOld';
+    src: url('../public/fonts/ppeditorialold-ultralight.otf') format('opentype');
+    font-weight: 200;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'EditorialOld';
+    src: url('../public/fonts/ppeditorialold-italic.otf') format('opentype');
+    font-weight: 400;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'EditorialOld';
+    src: url('../public/fonts/ppeditorialold-regular.otf') format('opentype');
+    font-weight: 400;
+    font-style: normal;
+}
